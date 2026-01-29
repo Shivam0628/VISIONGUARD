@@ -1,0 +1,17 @@
+
+{
+  "name": "VisionGuard Eye Care",
+  "short_name": "VisionGuard",
+  "description": "20-20-20 Rule Eye Protection App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3241/3241462.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
